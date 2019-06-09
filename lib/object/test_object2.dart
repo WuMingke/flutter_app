@@ -4,7 +4,7 @@ void main(){
   person();
 }
 
-class Person{
+class Person {
   String name;
 
   void work(){
